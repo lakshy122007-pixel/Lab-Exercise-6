@@ -17,24 +17,6 @@ To generate and evaluate UX solutions using ideation techniques, create user sto
 8. Review the proposed solutions for usability and simplicity.
    
 # OUTPUT:
-For this experiment, you can use **“Hospital Appointment Booking App”** as the common UX problem. Here’s a concise lab-record format.
-
-## Aim
-
-To generate and evaluate UX solutions using ideation techniques, create user stories and contextual scenarios, develop user/task flows, and organize information using Information Architecture (IA) and card sorting.
-
-## Algorithm
-
-1. Select a UX problem such as **booking an appointment through a hospital app**.
-2. Conduct a **Crazy 8s/Brainwriting** exercise to generate multiple solution ideas.
-3. Create at least five **user stories** based on user needs and personas.
-4. Select one user story and develop a **narrative scenario** including the user's environment, emotions, and tasks.
-5. Create a **task flow diagram** using standard flowchart symbols.
-6. Perform **card sorting** to group related information into suitable categories.
-7. Create a **site map** showing the hierarchical structure of the application.
-8. Review the proposed solutions for usability and simplicity.
-
-## Output
 
 ### 1. Solution Ideation – Crazy 8s
 
